@@ -19,7 +19,7 @@ struct AppConstant {
 }
 
 struct ControlSettings {
-    
+//    third commit
     static let showSocicalLogin = false
     static let googleClientKey = "497109148599-u0g40f3e5uh53286hdrpsj10v505tral.apps.googleusercontent.com"
     static let googleApiKey = "AIzaSyDAlG53TEdqWnwQ2wXJkC2CBKPyqW7vALU"
